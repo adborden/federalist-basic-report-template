@@ -13,7 +13,7 @@ subnav:
     href: '#iii-even-morem-ipsum'
 ---
 
-## Welcome to the Federalist Report Template
+## Hello world
 *We hope you enjoy perusing this template and our meaningless latin. The source code for this template is located [here](https://github.com/18F/federalist-uswds-template/tree/report-config/).*
 
 Noster admodum o anim noster, labore commodo qui cohaerescant.
