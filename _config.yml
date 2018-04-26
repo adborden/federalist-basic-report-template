@@ -27,5 +27,30 @@ google_analytics_ua: UA-48605964-32
 # search_site_handle: searchgov-site-handle
 
 # Include your own css overrides by adding files in /assets/css/site.css
-# styles:
-#   - /assets/css/site.css
+styles:
+  - /assets/css/site.css
+
+download_report_button:
+  text: Download report
+  href: /assets/docs/foo.pdf
+
+sidenav:
+- text: Home
+  href: /
+- text: Intro
+  href: /intro/
+- text: Theme
+  href: /theme/
+
+footer_nav:
+  - text: Documentation
+    href: /
+  - text: Demo link one
+    href: /
+  - text: Demo link two
+    href: /
+
+
+# Specify the Jekll theme to use.
+theme: federalist-basic-report-theme
+source: src

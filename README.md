@@ -7,9 +7,14 @@ Welcome to your new [Federalist] site!
 
 TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
 
-To add a new page, create a new file in `pages/`.
+### Content
 
 Configure your new site's name and other details by editing `_config.yml`.
+
+Your site's content lives under the `src/` directory. You can edit the files
+there or create new ones.
+
+To add a new page, create a new file in `src/`.
 
 
 ## Contributing
