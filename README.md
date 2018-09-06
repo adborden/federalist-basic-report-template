@@ -1,20 +1,24 @@
 # Federalist Basic Report Template
 
-Welcome to your new [Federalist] site!
+Welcome to your new [Federalist] site! Federalist monitors this GitHub
+repository (or repo) for changes you make. It will automatically build a new
+version of your site in a few minutes. You can view the live site [from
+Federalist][federalist-sites] and clicking "View site".
+
+If you're new to Federalist, check out our [Getting
+Started](https://federalist-docs.18f.gov/pages/using-federalist/getting-started/)
+guide.
 
 
-## Usage
+## Quick start
 
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
-
-### Content
-
-Configure your new site's name and other details by editing `_config.yml`.
-
-Your site's content lives under the `src/` directory. You can edit the files
-there or create new ones.
-
-To add a new page, create a new file in `src/`.
+1. Edit [`_config.yml`](edit/master/_config.yml) and fill in your site's
+   information like title and contact information.
+1. Add site content to the [`src/`](tree/master/src) directory.
+1. Add your agency logo and other assets to the
+   [`src/assets/`](tree/master/src/assets) directory.
+1. Update your site settings in [Federalist UI][federalist-sites] to set your
+   custom URL.
 
 
 ## Contributing
@@ -31,3 +35,4 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 > All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
 
 [Federalist]: https://federalist.18f.gov/
+[federalist-sites]: https://federalist.18f.gov/sites
