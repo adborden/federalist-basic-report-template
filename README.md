@@ -36,3 +36,6 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 
 [Federalist]: https://federalist.18f.gov/
 [federalist-sites]: https://federalist.18f.gov/sites
+
+---
+_Not sure how to use this template? Check out the [basic report template docs](https://federalist-docs.18f.gov/pages/using-federalist/templates/basic-report/)._

@@ -26,14 +26,16 @@ google_analytics_ua: UA-48605964-32
 
 # search_site_handle: searchgov-site-handle
 
-# Include your own css overrides by adding files in /assets/css/site.css
+# Include your own css overrides by adding CSS/SASS in /assets/css/site.css
 styles:
   - /assets/css/site.css
 
+# Customize the download report button's text and URL.
 download_report_button:
   text: Download report
-  href: /assets/docs/foo.pdf
+  href: /assets/docs/report.pdf
 
+# Change the side navigation to point to new pages here.
 sidenav:
 - text: Home
   href: /
@@ -42,6 +44,7 @@ sidenav:
 - text: Theme
   href: /theme/
 
+# Update the footer navigation
 footer_nav:
   - text: Documentation
     href: /
