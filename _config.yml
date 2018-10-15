@@ -56,4 +56,4 @@ footer_nav:
 
 # Specify the Jekll theme to use.
 theme: federalist-basic-report-theme
-source: src
+source: pages

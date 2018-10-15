@@ -14,9 +14,9 @@ guide.
 
 1. Edit [`_config.yml`](edit/master/_config.yml) and fill in your site's
    information like title and contact information.
-1. Add site content to the [`src/`](tree/master/src) directory.
+1. Add site content to the [`pages/`](tree/master/pages) directory.
 1. Add your agency logo and other assets to the
-   [`src/assets/`](tree/master/src/assets) directory.
+   [`pages/assets/`](tree/master/pages/assets) directory.
 1. Update your site settings in [Federalist UI][federalist-sites] to set your
    custom URL.
 
