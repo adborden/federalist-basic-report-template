@@ -33,7 +33,7 @@ styles:
 # Customize the download report button's text and URL.
 download_report_button:
   text: Download report
-  href: /assets/docs/report.pdf
+  href: /assets/docs/sample-document.pdf
 
 # Change the side navigation to point to new pages here.
 sidenav:
